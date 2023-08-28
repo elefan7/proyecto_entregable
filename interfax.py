@@ -37,7 +37,7 @@ if n > 0:
     print(pares)
     print('cantidad de pares:', len (pares))
 else:
-    print('El numero debe der par')    
+    print('un numero entero')    
 
 
 
